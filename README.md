@@ -1,6 +1,13 @@
 # Intro
 
-These are tutorials in languages made in the **english** language ~~luckily~~. The coding languages I am going to teach currently are Markdown, C++, and Python. Soon there will be more.
+These are tutorials in languages made in the **english** language ~~luckily~~. The coding languages taught currently are Python, C++, and Ruby. Markdown doesn't count as a coding language but we are teaching it too.
+
+## Courses
+
+C++ - @whippingdot & helped by @programmeruser2 \
+Python - @whippingdot & helped by @BD103 \
+Markdown - @whippingdot \
+Ruby - @darkdarcool
 
 ## Prerequisite / Replit
 
