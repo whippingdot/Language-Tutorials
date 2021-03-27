@@ -1,3 +1,7 @@
+### Note
+
+I have something important going on until April 9th so this repository might not be active. Expect frequent updates after! 🎉
+
 # Intro
 
 These are tutorials in languages made in the **english** language ~~luckily~~. The coding languages taught currently are Python, C++, and Ruby. Markdown doesn't count as a coding language but we are teaching it too.
