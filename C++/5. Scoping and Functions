@@ -12,6 +12,51 @@ As a general rule, scopes are created by curly brackets (`{}`).
 
 The main function itself has curly brackets as part of it's declaration syntax, and all variables declared within it are scoped to the function itself.
 
+But, what even is "variable visibility"?
+
+A variable defined within a scope is not accessable outside of the scope that it was declared in.
+
+Examples:
+```c++
+int main() {
+    char a = 'a';
+
+    std::cout << a; // {a} is visible here
+}
+```
+
+```c++
+int main() {
+    { // arbitrary curly brackets to create a new scope
+        char a = 'a';
+
+        std::cout << a; // {a} is visible here
+    }
+
+    std::cout << a; // {a} is NOT visible here
+}
+```
+
+But, variables are not their data, they are containers for data, so you can move the values stored in variables inside and outside of scopes.
+
+Example:
+
+```
+int main() {
+    char a = 'a';
+
+    {
+        char b = 'b';
+
+        a = b; // a holds 'b'
+    }
+
+    std::cout << a; // prints "b"
+}
+```
+
+When getting involved with more complicated, user-created types, other things will come into consideration, such as data lifetimes, which will be covered later.
+
 _______
 
 Functions are used in python help organize a python program and avoid repeating code. Python has many built in functions, and you have already seen one! The `print` statement is in fact a function.
