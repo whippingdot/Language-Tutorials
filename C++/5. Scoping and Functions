@@ -4,11 +4,13 @@
 
 In this file, we will go over scoping and functions. Scoping is used for plenty of reasons, such as allowing reusing variables names, making code easier to reason about, reducing accessibility of data, among other reasons. 
 
-There are plenty of different ways that scopes can be classified, and plenty of reasons to scoping.
+There are plenty of different ways that scopes can be classified, and plenty of reasons to use scoping.
 
-Scoping .
+Scoping affects variable visibilty, this entails quite a lot, while being such a simple idea.
 
 As a general rule, scopes are created by curly brackets (`{}`).
+
+The main function itself has curly brackets as part of it's declaration syntax, and all variables declared within it are scoped to the function itself.
 
 _______
 
