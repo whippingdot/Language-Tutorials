@@ -2,7 +2,11 @@
 
 ## Start
 
-In this file, we will go over scoping and functions. Scoping is used for plenty of reasons, such as allowing reusing variables names, making code easier to reason about, reducing accessibility of data, among other reasons. 
+In this file, we will go over scoping and functions. Scoping is used for plenty of reasons, such as allowing reusing variables names, making code easier to reason about, reducing accessibility of data, among other reasons.
+
+Functions are useful for abstracting code, removing code implementation details, and creating reusable code.
+
+## Scoping
 
 There are plenty of different ways that scopes can be classified, and plenty of reasons to use scoping.
 
@@ -27,13 +31,13 @@ int main() {
 
 ```c++
 int main() {
-    { // arbitrary curly brackets to create a new scope
+    { // place arbitrary curly brackets to create a new scope
         char a = 'a';
 
         std::cout << a; // {a} is visible here
     }
 
-    std::cout << a; // {a} is NOT visible here
+    std::cout << a; // {a} is not visible here
 }
 ```
 
@@ -57,7 +61,13 @@ int main() {
 
 When getting involved with more complicated, user-created types, other things will come into consideration, such as data lifetimes, which will be covered later.
 
-_______
+___
+
+## Functions
+
+Functions are executable sections of code.
+
+<!-- base below -->
 
 Functions are used in python help organize a python program and avoid repeating code. Python has many built in functions, and you have already seen one! The `print` statement is in fact a function.
 
