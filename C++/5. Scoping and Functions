@@ -20,7 +20,7 @@ But, what even is "variable visibility"?
 
 A variable defined within a scope is not accessable outside of the scope that it was declared in.
 
-Examples:
+### Code
 ```c++
 int main() {
     char a = 'a';
@@ -29,6 +29,12 @@ int main() {
 }
 ```
 
+### Output
+```
+a
+```
+
+### Code
 ```c++
 int main() {
     { // place arbitrary curly brackets to create a new scope
@@ -41,31 +47,42 @@ int main() {
 }
 ```
 
+### Output
+```
+error: use of undeclared identifier 'a'
+```
+
 But, variables are not their data, they are containers for data, so you can move the values stored in variables inside and outside of scopes.
 
-Example:
-
+### Code
 ```
 int main() {
-    char a = 'a';
+    char outer_scope = 'a';
 
     {
-        char b = 'b';
+        char inner_scope = 'b';
 
-        a = b; // a holds 'b'
+        outer_scope = inner_scope; // {outer_scope} holds 'b'
     }
 
-    std::cout << a; // prints "b"
+    std::cout << outer_scope;
 }
 ```
 
-When getting involved with more complicated, user-created types, other things will come into consideration, such as data lifetimes, which will be covered later.
+### Output
+```
+b
+```
+
+When getting involved with more complicated, user-created types, other things will come into consideration, such as memory lifetimes, which will be covered later.
 
 ___
 
 ## Functions
 
 Functions are executable sections of code.
+
+They can be used and reused infinitely.
 
 <!-- base below -->
 
