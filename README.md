@@ -4,7 +4,7 @@ These are tutorials in languages made in the **english** language ~~luckily~~. T
 
 ## Courses
 
-C++ - @whippingdot & helped by @programmeruser2 \
+C++ - @whippingdot, & helped by @programmeruser2 & @CrimsonCodes0 \
 Python - @whippingdot & helped by @BD103 \
 Markdown - @whippingdot \
 Ruby - @darkdarcool
