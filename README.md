@@ -8,8 +8,8 @@ C++ - @whippingdot, & helped by @programmeruser2 & @CrimsonCodes0 \
 Python - @whippingdot, & helped by @BD103 & @Rayyan06 / @Plorzon \
 Markdown - @whippingdot \
 Ruby - @darkdarcool \
-Cookeylang - @cursorweb & @darkdarcool
-HTML - @MrIntellectual
+Cookeylang - @cursorweb & @darkdarcool \
+HTML - @MrIntellectual \
 
 ## Prerequisite / Replit
 
