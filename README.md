@@ -5,11 +5,12 @@ These are tutorials in languages made in the **english** language ~~luckily~~. T
 ## Courses
 
 C++ - @whippingdot, & helped by @programmeruser2 & @CrimsonCodes0 \
-Python - @whippingdot, & helped by @BD103 & @Rayyan06 / @Plorzon \
+Python - @whippingdot, @JBYT27, & helped by @BD103 & @Rayyan06 / @Plorzon \
 Markdown - @whippingdot \
 Ruby - @darkdarcool \
 Cookeylang - @cursorweb & @darkdarcool \
-HTML - @MrIntellectual
+HTML - @MrIntellectual \
+DSMD - @darkdarcool
 
 ## Prerequisite / Replit
 
