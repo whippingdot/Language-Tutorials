@@ -9,6 +9,7 @@ Python - @whippingdot, @JBYT27, & helped by @BD103 & @Rayyan06 / @Plorzon \
 Markdown - @whippingdot \
 Ruby - @darkdarcool \
 Cookeylang - @cursorweb & @darkdarcool \
+HTML - @MrIntellectual \
 DSMD - @darkdarcool
 
 ## Prerequisite / Replit
