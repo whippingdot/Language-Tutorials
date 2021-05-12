@@ -1,6 +1,6 @@
 # Intro
 
-These are tutorials in languages made in the **english** language ~~luckily~~. The coding languages taught currently are Python, C++, and Ruby. Markdown doesn't count as a coding language but we are teaching it too.
+These are tutorials I made, which teach you some coding languages, and other similar things like Markdown, CSS, HTML, DSMD, etc. These tutorials are written in **English** for now, but in the future, we may add support for other languages - such as Chinese (but this is unlikely).
 
 ## Courses
 
@@ -14,14 +14,16 @@ DSMD - @darkdarcool
 
 ## Prerequisite / Replit
 
-I won't teach you how to download the editor, or anything like that. I won't tell you how to download Python, or a C++ compiler, I will only teach you the language's syntax(meaning how to write the code). Because of this, I recommend you use replit to practice coding.
+You will have to know how to download the languages and set them up. Sometimes this might be confusing or hard to do, so I recommend using replit.com - in which you don't need to download anything and don't need to set up anything to get started. Just start typing!
 
-[![Run on Replit](https://replit.com/badge/github/Whippingdot/Language-Tutorials)](https://replit.com/github/whippingdot/Language-Tutorials)
+Sign up to replit [here](https://replit.com/signup) and create a new repl after signing up [here](https://replit.com/new)!
 
 ## Contributions
 
-You can contribute easily by cloning & editing this repo in your favorite editor (mine is VS Code). Then create a pull request, and I will check it out and see if I should add your changes. If you want to create a new file, think of where it would fit, and add a number before the file name to make it come where you want it to in alphabetical order. After that change the rest of the files with and greater than the number your file has. Change their numbers by adding 1. If you are too lazy or don't understand this, I will do it myself, but please make it easier for me.
+You can contribute easily by cloning & editing this repo in your favorite editor (mine is VS Code). After that, make your changes and create a pull request. I will check it out and give you some feedback/improvements. After everything is perfect, I will merge and I will add you in the courses area*. While making the changes, try keeping the format that is used in the other files, and if you are creating a new tutorial, try also creating the file names with the same format as most other file names!
+
+* If the courses area gets too filled, I will create a new section for contributions
 
 ## Practice Problems
 
-I don't have time right now to make these, so I won't give you them for now. I will add these later if I have the motivation and time.
+For now we will not have practice problems, but they might be included in the future!
