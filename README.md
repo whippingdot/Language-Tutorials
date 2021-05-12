@@ -20,9 +20,9 @@ Sign up to replit [here](https://replit.com/signup) and create a new repl after 
 
 ## Contributions
 
-You can contribute easily by cloning & editing this repo in your favorite editor (mine is VS Code). After that, make your changes and create a pull request. I will check it out and give you some feedback/improvements. After everything is perfect, I will merge and I will add you in the courses area*. While making the changes, try keeping the format that is used in the other files, and if you are creating a new tutorial, try also creating the file names with the same format as most other file names!
+You can contribute easily by cloning & editing this repo in your favorite editor. After that, make your changes and create a pull request. I will check it out and give you some feedback/improvements. After everything is perfect, I will merge and I will add you in the courses area^. While making the changes, try keeping the format that is used in the other files, and if you are creating a new tutorial, try also creating the file names with the same format as most other file names!
 
-* If the courses area gets too filled, I will create a new section for contributions
+^ If the courses area gets too filled, I will create a new section for contributions
 
 ## Practice Problems
 
