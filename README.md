@@ -26,4 +26,4 @@ You can contribute easily by cloning & editing this repo in your favorite editor
 
 ## Practice Problems
 
-For now we will not have practice problems, but they might be included in the future!
+For now, we will not have practice problems, but they might be included in the future!
