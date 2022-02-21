@@ -5,7 +5,7 @@ These are tutorials I made, which teach you some coding languages, and other sim
 ## Courses
 
 C++ - @whippingdot, & helped by @programmeruser2 & @CrimsonCodes0 \
-Python - @whippingdot, @JBYT27, & helped by @BD103 & @Rayyan06 / @Plorzon \
+Python - @whippingdot, @kokonut27, & helped by @BD103 & @Rayyan06 / @Plorzon \
 Markdown - @whippingdot \
 Ruby - @darkdarcool \
 Cookeylang - @cursorweb & @darkdarcool \
